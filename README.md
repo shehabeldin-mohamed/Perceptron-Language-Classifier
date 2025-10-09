@@ -10,7 +10,7 @@ The model uses **two perceptrons** to perform multi-class classification, extend
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 This project demonstrates how a **single-layer perceptron network** can be used for **language classification**.  
 Each perceptron learns to recognize specific language features based on character frequency or textual patterns.
@@ -21,7 +21,7 @@ Each perceptron learns to recognize specific language features based on characte
 
 ---
 
-## 🚀 How to Run
+## Installation Instructions
 
 1. **Clone the repository**
    ```bash
